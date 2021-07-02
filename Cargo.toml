@@ -1,0 +1,10 @@
+[package]
+name = "mail"
+version = "0.1.0"
+authors = ["bishtpawan <pawan.bisht@knoldus.in>"]
+edition = "2018"
+
+[dependencies]
+
+lettre = "0.9.1"
+lettre_email = "0.9.1"
